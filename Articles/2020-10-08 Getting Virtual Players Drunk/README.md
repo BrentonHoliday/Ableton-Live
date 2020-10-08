@@ -21,19 +21,19 @@ Let's have a listen and then dig into the theory and methodology below.
 ### 1 Brent with his guitar and pedal board playing the MIDI file
 
 <audio controls src="media/1%20Brent%20with%20his%20rig.mp3">
-  <em>Unfortunately this site doesn't allow embeeded mp3s,<br>scroll down to the bottom of the page for a list of direct mp3 downloads</em>
+  <em>Unfortunately this site doesn't allow embeded mp3s,<br>scroll down to the bottom of the page for a list of direct mp3 downloads</em>
 </audio><br><br><br>
 
 ### 2 Brent with his guitar and pedal board playing the MIDI file after 9 beers
 
 <audio controls src="media/2%20Brent%20wasted%20%289%20beers%29with%20his%20rig.mp3">
-  <em>Unfortunately this site doesn't allow embeeded mp3s,<br> scroll down to the bottom of the page for a list of direct mp3 downloads</em>
+  <em>Unfortunately this site doesn't allow embeded mp3s,<br> scroll down to the bottom of the page for a list of direct mp3 downloads</em>
 </audio><br><br><br>
 
 ### 3 Brent with his guitar and pedal board playing the MIDI file after 9.5 beers, 5 whiskeys and a burrito
 
 <audio controls src="media/3%20Brent%20wasted%20%289.5%20beers%2C%205%20whiskeys%20and%20a%20burrito%29with%20his%20rig.mp3">
-  <em>Unfortunately this site doesn't allow embeeded mp3s,<br> scroll down to the bottom of the page for a list of direct mp3 downloads</em>
+  <em>Unfortunately this site doesn't allow embeded mp3s,<br> scroll down to the bottom of the page for a list of direct mp3 downloads</em>
 </audio><br><br><br>
 
 There's even all these wonderful unexpected things like drunkenly hitting open strings and sliding my fingers recklessly up and down the strings. That's absolutely something I do proportionally to how much I have been drinking!
