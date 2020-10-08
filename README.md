@@ -10,8 +10,10 @@ The _[Post Music Production](Articles/Post%20Music/README.md)_ is really the bit
 
 ## Table of Contents
 
+-   [Todo](TODO.md) - The never ending list of things todo
 -   [Articles](Articles/README.md)
 
+    -   [First Experiments with Virtual Player States - Drunk XXX](Articles/2020-10-08%20Getting%20Virtual%20Players%20Drunk/README.md)
     -   [Post Music aka Detangled Quantum Russian Doll Audio Production](Articles/Post%20Music/README.md) - Let's work give computers more emotional expressive capabilitiess than people, so that we can fully obsolete ourselves by next year.
 
     -   [Brentifesto](Articles/Brentifesto/README.md) - My manifesto for logic, organization and creating jams to move asses
@@ -45,8 +47,8 @@ The _[Post Music Production](Articles/Post%20Music/README.md)_ is really the bit
         -   Players (working on a pretty sweet tony wiliams simulator)
         -   Player states (Drunk)
 
+-   [Racks](Racks/README.md) - A folder to hold rack units. Each of these folders are symlinked to their normal place two levels deep in `Presets` folder for quicker access. Those folders each hold a lot of presets and fuck digging around in there.
 -   [Samples](Samples/README.md) - This is where you can store your whosampled 90s hip hop sources library.
--   [Todo](TODO.todo) - The never ending list of things todo
 
 * * *
 
