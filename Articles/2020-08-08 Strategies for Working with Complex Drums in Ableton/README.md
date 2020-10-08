@@ -1,3 +1,5 @@
+[Back to articles list](../README.md)
+
 # Working with Samples in Ableton and  Organizational Strategy
 
 Since each line only has to be written once, just write it when you make the change. Then just keep appending.
