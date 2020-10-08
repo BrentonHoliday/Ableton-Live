@@ -20,6 +20,6 @@ This is a collection of articles and notes I've created about working with Ablet
 
 > Notes I've taken about learning different types of audio synthesis with Ableton Live.
 
-## [Tony Williams Drummer Project](Tony%20Williams%20Project.md)
+## [Tony Williams Drummer Project](Tony%20Williams%20ProjectREADME.md)
 
 > Working on creating a virtual Tony Williams drummer so that I can have someone to jam with durning the pandemic.

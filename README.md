@@ -14,9 +14,9 @@ The _[Post Music Production](Articles/Post%20Music/README.md)_ is really the bit
 
     -   [Post Music aka Detangled Quantum Russian Doll Audio Production](Articles/Post%20Music/README.md) - Let's work give computers more emotional expressive capabilitiess than people, so that we can fully obsolete ourselves by next year.
 
-    -   [Brentifesto](Brentifesto/README.md) - My manifesto for logic, organization and creating jams to move asses
+    -   [Brentifesto](Articles/Brentifesto/README.md) - My manifesto for logic, organization and creating jams to move asses
 
-    -   [Ableton Live Synthesis Notes](ArticlesAbleton%20Live%20Synthesis%20Notes/README.md) - Modular systems, drugs and music may be my jams, but I'm pretty new at synth stuff as you can see.
+    -   [Ableton Live Synthesis Notes](Articles/Ableton%20Live%20Synthesis%20Notes/README.md) - Modular systems, drugs and music may be my jams, but I'm pretty new at synth stuff as you can see.
 
 -   [Grooves](Grooves/README.md) - The folder where all your saved grooves live. Grooves are what add a human feel and timing to different clips / MIDI.
 
@@ -74,6 +74,6 @@ I sincerly hope that someone finds value in this and runs with it. Anyone who is
 
 Althought I have clearly copyrighted this as you can see, please feel free to share, duplicate and rework this to your hearts content because as we both know, copyright is a joke and doesn't mean fuck all since [they screwed Biz Markie in '91](https://en.m.wikipedia.org/wiki/Biz_Markie#1990s)
 
-So... when some hip jive talkin' jazz cat ask you if you've heard of this [Detangled Quantum Russian Doll Audio Production](https://github.com/PuddletownDesign/blob/master/User%20Library/blob/master/Articles/Detangled%20Quantum%20Russian%20Doll%20Audio%20Production/README.md) shit, you tell 'em...
+So... when some hip jive talkin' jazz cat ask you if you've heard of this [Detangled Quantum Russian Doll Audio Production](https://github.com/PuddletownDesign/blob/master/User%20Library/blob/master/Articles/Post%20Music/README.md) shit, you tell 'em...
 
 _"I made that"_
