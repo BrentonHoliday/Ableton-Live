@@ -69,20 +69,20 @@ Stay tuned for next week :)
 
 ### Audio Exports
 
--   [mp3 - Brent with his guitar and pedal board playing the MIDI file ](#)
--   [mp3 - Brent with his guitar and pedal board playing the MIDI file after 9 beers](#)
--   [mp3 - Brent with his guitar and pedal board playing the MIDI file after 9.5 beers, 5 whiskeys and a burrito](#)
+-   [mp3 - Brent with his guitar and pedal board playing the MIDI file ](media/1%20Brent%20with%20his%20rig.mp3)
+-   [mp3 - Brent with his guitar and pedal board playing the MIDI file after 9 beers](media/2%20Brent%20wasted%20%289%20beers%29with%20his%20rig.mp3)
+-   [mp3 - Brent with his guitar and pedal board playing the MIDI file after 9.5 beers, 5 whiskeys and a burrito](media/3%20Brent%20wasted%20%289.5%20beers%2C%205%20whiskeys%20and%20a%20burrito%29with%20his%20rig.mp3)
 
 ### The MIDI File in Question
 
--   [MIDI File Download](#)
+-   [MIDI File Download](media/BrentsGuitarTrack.mid)
 
 ### Modules
 
--   [Drunk Module 1.0 - MIDI Rack Module](#)
--   [BrentonHoliday Module - MIDI Rack Module](#)
--   [Brent's Guitar Module - Instrument Rack Module](#)
--   [Brent's Pedalboard Module - Effects Rack Module](#)
+-   [Drunk Module 1.0 - MIDI Rack Module](media/Drunk.adg)
+-   [BrentonHoliday Module - MIDI Rack Module](media/Brenton%20Holiday.adg)
+-   [Brent's Guitar Module - Instrument Rack Module](media/Brent%27s%2065%20Fender%20Jaguar%201.0.adg)
+-   [Brent's Pedalboard Module - Effects Rack Module](media/Brent%27s%20Echo%20Board%201.1.adg)
 
 * * *
 
