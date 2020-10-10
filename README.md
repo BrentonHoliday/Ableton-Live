@@ -72,9 +72,9 @@ I sincerly hope that someone finds value in this and runs with it. Anyone who is
 
 * * *
 
-### © 2020 [Puddletown Design](https://github.com/PuddletownDesign/)
+### © 2020 [Brenton Holiday](https://github.com/PuddletownDesign/)
 
-Althought I have clearly copyrighted this as you can see, please feel free to share, duplicate and rework this to your hearts content because as we both know, copyright is a joke and doesn't mean fuck all since [they screwed Biz Markie in '91](https://en.m.wikipedia.org/wiki/Biz_Markie#1990s)
+Althought I have clearly copyrighted this as you can see, please feel free to share, duplicate and rework this to your hearts content because as we both know, copyright is a joke and doesn't mean fuck all since [they screwed Biz Markie in '91](https://en.m.wikipedia.org/wiki/Biz_Markie#1990s). Nevermind the internet or whatever that's all about.
 
 So... when some hip jive talkin' jazz cat ask you if you've heard of this [Detangled Quantum Russian Doll Audio Production](https://github.com/PuddletownDesign/blob/master/User%20Library/blob/master/Articles/Post%20Music/README.md) shit, you tell 'em...
 

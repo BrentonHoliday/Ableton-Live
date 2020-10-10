@@ -1,8 +1,10 @@
-[Back](../README.md)
+[Back to articles list](../README.md)
 
 # Audio Synthesis with Ableton
 
 ## Precursor
+
+_Published: 2020-07-15_
 
 ### Science Facts
 

@@ -2,6 +2,10 @@
 
 # Music Brentefesto
 
+_Published: 2020-06-30_
+
+My manifesto for logic, organization and creating jams to move asses
+
 ### _Brent's guide to working productively with music_
 
 1.  Do not give a fuck

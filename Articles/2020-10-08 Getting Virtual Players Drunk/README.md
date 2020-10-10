@@ -4,6 +4,8 @@
 
 ### _Getting virtual rock musicians drunk_
 
+_Published: 2020-10-08_
+
 _Well, if There's one state of mind that most modern rock musicians share it's being drunk, since half the time we're playing, we're actually just working for someone else trying to sell more booze for them. One of the few industries that gets paid in liquor. It's not so much that alcohol is a depressant... it's the state of the world._
 
 ![Brent got wasted during the making of this module](media/drinky-crow.png)

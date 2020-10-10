@@ -2,6 +2,8 @@
 
 # Tony Williams Virtual Drummer Project
 
+_Published: 2020-07-08_
+
 Song tempo can be automated and tied to other variables through the master channel
 
 ## Tony Williams Project

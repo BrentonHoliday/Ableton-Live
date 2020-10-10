@@ -2,6 +2,8 @@
 
 # Ableton Organizational Concepts
 
+_Published: 2020-06-01_
+
 ## Make a global color coding system
 
 ### For both arranging

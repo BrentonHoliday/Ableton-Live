@@ -4,6 +4,8 @@
 
 ## _aka Detangled Quantum Russian Doll Audio Production_
 
+_Published: 2020-07-06_
+
 Ok, ok, the title is a bit much but bear with me here. I've nearly got a prototype of this complete.
 
 This is basically just a philosophy and workflow for creating music of any type  with a "human feel" that is comprised of remixable and reusable components on each level. It's always intentional, but never exactly the same.
