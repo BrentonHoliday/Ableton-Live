@@ -11,15 +11,7 @@ The _[Post Music Production](Articles/Post%20Music/README.md)_ is really the bit
 ## Table of Contents
 
 -   [Todo](TODO.md) - The never ending list of things todo
--   [Articles](Articles/README.md)
-
-    -   [First Experiments with Virtual Player States - Drunk XXX](Articles/2020-10-08%20Getting%20Virtual%20Players%20Drunk/README.md)
-    -   [Post Music aka Detangled Quantum Russian Doll Audio Production](Articles/Post%20Music/README.md) - Let's work give computers more emotional expressive capabilitiess than people, so that we can fully obsolete ourselves by next year.
-
-    -   [Brentifesto](Articles/Brentifesto/README.md) - My manifesto for logic, organization and creating jams to move asses
-
-    -   [Ableton Live Synthesis Notes](Articles/Ableton%20Live%20Synthesis%20Notes/README.md) - Modular systems, drugs and music may be my jams, but I'm pretty new at synth stuff as you can see.
-
+-   [Articles](Articles/README.md) - A collection of articles and notes.
 -   [Grooves](Grooves/README.md) - The folder where all your saved grooves live. Grooves are what add a human feel and timing to different clips / MIDI.
 
 -   [Clips](Clips/README.md) - Clips of audio or midi files that you've consolidated or trimmed.
